@@ -1,4 +1,4 @@
 def reverse_each_word(sentence)
-  words = 
+  reversed = 
   end
 end
