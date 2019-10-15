@@ -1,4 +1,4 @@
 def reverse_each_word(sentence)
-  reversed = sentence.split
+  reversed = sentence.split(" ")
   end
 end
